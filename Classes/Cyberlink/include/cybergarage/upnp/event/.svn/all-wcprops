@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clinkc/!svn/ver/252/trunk/include/cybergarage/upnp/event
+END
+cnotify.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clinkc/!svn/ver/252/trunk/include/cybergarage/upnp/event/cnotify.h
+END
+cevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clinkc/!svn/ver/249/trunk/include/cybergarage/upnp/event/cevent.h
+END
+csubscriber.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clinkc/!svn/ver/252/trunk/include/cybergarage/upnp/event/csubscriber.h
+END
+cproperty.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clinkc/!svn/ver/249/trunk/include/cybergarage/upnp/event/cproperty.h
+END
+csubscription.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clinkc/!svn/ver/249/trunk/include/cybergarage/upnp/event/csubscription.h
+END

@@ -1,0 +1,3 @@
+build/*
+*.pch
+UPnPBrowser.xcodeproj/neild.*

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clinkc/!svn/ver/249/trunk/include/cybergarage/upnp/ssdp
+END
+cssdp.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clinkc/!svn/ver/249/trunk/include/cybergarage/upnp/ssdp/cssdp.h
+END
+cssdp_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clinkc/!svn/ver/249/trunk/include/cybergarage/upnp/ssdp/cssdp_server.h
+END

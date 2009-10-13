@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clinkc/!svn/ver/513/trunk/src/cybergarage/http
+END
+chttp_date.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clinkc/!svn/ver/439/trunk/src/cybergarage/http/chttp_date.c
+END
+chttp_response.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clinkc/!svn/ver/470/trunk/src/cybergarage/http/chttp_response.c
+END
+chttp_persistent_connection.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/http/chttp_persistent_connection.c
+END
+chttp.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/http/chttp.c
+END
+chttp_server_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/http/chttp_server_list.c
+END
+chttp_header_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/http/chttp_header_list.c
+END
+chttp_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clinkc/!svn/ver/503/trunk/src/cybergarage/http/chttp_server.c
+END
+chttp_packet.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clinkc/!svn/ver/486/trunk/src/cybergarage/http/chttp_packet.c
+END
+chttp_header.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/http/chttp_header.c
+END
+chttp_request.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clinkc/!svn/ver/513/trunk/src/cybergarage/http/chttp_request.c
+END

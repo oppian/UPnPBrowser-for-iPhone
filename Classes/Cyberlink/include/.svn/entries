@@ -1,0 +1,44 @@
+8
+
+dir
+523
+https://clinkc.svn.sourceforge.net/svnroot/clinkc/trunk/include
+https://clinkc.svn.sourceforge.net/svnroot/clinkc
+
+
+
+2009-08-04T02:10:06.944632Z
+521
+skonno
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bfd3be0d-9f21-0410-925f-e30e9767a5cc
+
+Makefile.am
+file
+
+
+
+
+2009-08-11T13:20:58.000000Z
+6b7fc5c2ea01a76bb61c33c6fa2562ec
+2009-06-01T04:36:13.816518Z
+494
+skonno
+has-props
+
+cybergarage
+dir
+

@@ -1,0 +1,41 @@
+8
+
+dir
+523
+https://clinkc.svn.sourceforge.net/svnroot/clinkc/trunk/include/cybergarage/soap
+https://clinkc.svn.sourceforge.net/svnroot/clinkc
+
+
+
+2007-10-22T10:25:53.369879Z
+249
+makelaa
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bfd3be0d-9f21-0410-925f-e30e9767a5cc
+
+csoap.h
+file
+
+
+
+
+2009-08-11T13:20:57.000000Z
+7eb7d0dc851496d87ff4c1507d132eb8
+2007-10-22T10:25:53.369879Z
+249
+makelaa
+has-props
+

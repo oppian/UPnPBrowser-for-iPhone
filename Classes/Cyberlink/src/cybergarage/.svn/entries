@@ -1,0 +1,49 @@
+8
+
+dir
+523
+https://clinkc.svn.sourceforge.net/svnroot/clinkc/trunk/src/cybergarage
+https://clinkc.svn.sourceforge.net/svnroot/clinkc
+
+
+
+2009-08-04T23:52:32.114342Z
+522
+skonno
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bfd3be0d-9f21-0410-925f-e30e9767a5cc
+
+http
+dir
+
+xml
+dir
+
+soap
+dir
+
+upnp
+dir
+
+net
+dir
+
+io
+dir
+
+util
+dir
+

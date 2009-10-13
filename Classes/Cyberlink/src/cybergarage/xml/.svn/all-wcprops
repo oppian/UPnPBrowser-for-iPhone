@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clinkc/!svn/ver/498/trunk/src/cybergarage/xml
+END
+cxml_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/xml/cxml_parser.c
+END
+cxml_parser_expat.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clinkc/!svn/ver/417/trunk/src/cybergarage/xml/cxml_parser_expat.c
+END
+cxml_attribute_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/xml/cxml_attribute_list.c
+END
+cxml_node_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clinkc/!svn/ver/294/trunk/src/cybergarage/xml/cxml_node_list.c
+END
+cxml_attribute.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/xml/cxml_attribute.c
+END
+cxml_function.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clinkc/!svn/ver/498/trunk/src/cybergarage/xml/cxml_function.c
+END
+cxml_node.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clinkc/!svn/ver/417/trunk/src/cybergarage/xml/cxml_node.c
+END
+cxml_parser_libxml2.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clinkc/!svn/ver/417/trunk/src/cybergarage/xml/cxml_parser_libxml2.c
+END

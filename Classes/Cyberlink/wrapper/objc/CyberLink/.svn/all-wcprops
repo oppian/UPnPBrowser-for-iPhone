@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/clinkc/!svn/ver/519/trunk/wrapper/objc/CyberLink
+END
+CGUpnpAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clinkc/!svn/ver/401/trunk/wrapper/objc/CyberLink/CGUpnpAction.h
+END
+CGUpnpIcon.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clinkc/!svn/ver/519/trunk/wrapper/objc/CyberLink/CGUpnpIcon.m
+END
+CGUpnpControlPoint.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clinkc/!svn/ver/429/trunk/wrapper/objc/CyberLink/CGUpnpControlPoint.m
+END
+CGUpnpDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clinkc/!svn/ver/502/trunk/wrapper/objc/CyberLink/CGUpnpDevice.h
+END
+CGUpnpService.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clinkc/!svn/ver/399/trunk/wrapper/objc/CyberLink/CGUpnpService.h
+END
+CGUpnpAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clinkc/!svn/ver/470/trunk/wrapper/objc/CyberLink/CGUpnpAction.m
+END
+CGUpnpDevice.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clinkc/!svn/ver/502/trunk/wrapper/objc/CyberLink/CGUpnpDevice.m
+END
+CGUpnpService.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clinkc/!svn/ver/399/trunk/wrapper/objc/CyberLink/CGUpnpService.m
+END
+UPnP.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clinkc/!svn/ver/399/trunk/wrapper/objc/CyberLink/UPnP.h
+END
+CGUpnpStateVariable.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clinkc/!svn/ver/401/trunk/wrapper/objc/CyberLink/CGUpnpStateVariable.h
+END
+CGUpnpIcon.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clinkc/!svn/ver/450/trunk/wrapper/objc/CyberLink/CGUpnpIcon.h
+END
+CGUpnpControlPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clinkc/!svn/ver/401/trunk/wrapper/objc/CyberLink/CGUpnpControlPoint.h
+END
+CGUpnpStateVariable.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clinkc/!svn/ver/405/trunk/wrapper/objc/CyberLink/CGUpnpStateVariable.m
+END

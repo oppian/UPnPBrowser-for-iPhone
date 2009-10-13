@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/clinkc/!svn/ver/497/trunk/include/cybergarage/net
+END
+csocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clinkc/!svn/ver/249/trunk/include/cybergarage/net/csocket.h
+END
+curi.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clinkc/!svn/ver/497/trunk/include/cybergarage/net/curi.h
+END
+cinterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clinkc/!svn/ver/249/trunk/include/cybergarage/net/cinterface.h
+END
+curl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clinkc/!svn/ver/497/trunk/include/cybergarage/net/curl.h
+END

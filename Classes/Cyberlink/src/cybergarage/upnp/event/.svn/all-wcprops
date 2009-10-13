@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clinkc/!svn/ver/253/trunk/src/cybergarage/upnp/event
+END
+csubscription_request.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/event/csubscription_request.c
+END
+csubscriber_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/event/csubscriber_list.c
+END
+cproperty_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/event/cproperty_list.c
+END
+cnotify_request.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clinkc/!svn/ver/253/trunk/src/cybergarage/upnp/event/cnotify_request.c
+END
+ceventlistener_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/event/ceventlistener_list.c
+END
+csubscription_response.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/event/csubscription_response.c
+END
+csubscriber.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clinkc/!svn/ver/253/trunk/src/cybergarage/upnp/event/csubscriber.c
+END
+cproperty.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/event/cproperty.c
+END
+csubscription.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/event/csubscription.c
+END

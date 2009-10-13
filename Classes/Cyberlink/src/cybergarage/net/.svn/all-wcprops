@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/clinkc/!svn/ver/510/trunk/src/cybergarage/net
+END
+cinterface_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/net/cinterface_list.c
+END
+cnet_function.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clinkc/!svn/ver/501/trunk/src/cybergarage/net/cnet_function.c
+END
+curi.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clinkc/!svn/ver/510/trunk/src/cybergarage/net/curi.c
+END
+cinterface.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clinkc/!svn/ver/404/trunk/src/cybergarage/net/cinterface.c
+END
+curl.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/net/curl.c
+END
+csocket_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clinkc/!svn/ver/177/trunk/src/cybergarage/net/csocket_list.c
+END
+cinterface_function.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clinkc/!svn/ver/429/trunk/src/cybergarage/net/cinterface_function.c
+END
+cdatagram_packet.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/net/cdatagram_packet.c
+END
+csocket.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clinkc/!svn/ver/503/trunk/src/cybergarage/net/csocket.c
+END

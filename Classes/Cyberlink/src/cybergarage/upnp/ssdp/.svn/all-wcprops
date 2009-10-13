@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/clinkc/!svn/ver/486/trunk/src/cybergarage/upnp/ssdp
+END
+chttpu_socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/ssdp/chttpu_socket.c
+END
+cssdp_response_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/ssdp/cssdp_response_server.c
+END
+cssdp_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clinkc/!svn/ver/429/trunk/src/cybergarage/upnp/ssdp/cssdp_server.c
+END
+cssdp_packet.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/ssdp/cssdp_packet.c
+END
+cssdp_request.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clinkc/!svn/ver/486/trunk/src/cybergarage/upnp/ssdp/cssdp_request.c
+END
+cssdp_socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/ssdp/cssdp_socket.c
+END
+cssdp_response.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/ssdp/cssdp_response.c
+END
+cssdp_response_server_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/ssdp/cssdp_response_server_list.c
+END
+chttpmu_socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/ssdp/chttpmu_socket.c
+END
+cssdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/ssdp/cssdp.c
+END
+cssdp_server_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/ssdp/cssdp_server_list.c
+END

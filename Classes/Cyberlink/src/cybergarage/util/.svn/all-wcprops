@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clinkc/!svn/ver/522/trunk/src/cybergarage/util
+END
+clist.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clinkc/!svn/ver/502/trunk/src/cybergarage/util/clist.c
+END
+cstring_function.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clinkc/!svn/ver/522/trunk/src/cybergarage/util/cstring_function.c
+END
+ctime.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clinkc/!svn/ver/439/trunk/src/cybergarage/util/ctime.c
+END
+cstring_tokenizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/util/cstring_tokenizer.c
+END
+clog.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/util/clog.c
+END
+cmutex.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/util/cmutex.c
+END
+cthread_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/util/cthread_list.c
+END
+ccond.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clinkc/!svn/ver/274/trunk/src/cybergarage/util/ccond.c
+END
+ctime_wince.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clinkc/!svn/ver/216/trunk/src/cybergarage/util/ctime_wince.c
+END
+cdictionary.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/clinkc/!svn/ver/497/trunk/src/cybergarage/util/cdictionary.c
+END
+cstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clinkc/!svn/ver/474/trunk/src/cybergarage/util/cstring.c
+END
+cdictionary_elem.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clinkc/!svn/ver/498/trunk/src/cybergarage/util/cdictionary_elem.c
+END
+cthread.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clinkc/!svn/ver/419/trunk/src/cybergarage/util/cthread.c
+END

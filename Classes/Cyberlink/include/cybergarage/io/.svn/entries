@@ -1,0 +1,41 @@
+8
+
+dir
+523
+https://clinkc.svn.sourceforge.net/svnroot/clinkc/trunk/include/cybergarage/io
+https://clinkc.svn.sourceforge.net/svnroot/clinkc
+
+
+
+2007-10-22T10:25:53.369879Z
+249
+makelaa
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bfd3be0d-9f21-0410-925f-e30e9767a5cc
+
+cfile.h
+file
+
+
+
+
+2009-08-11T13:20:58.000000Z
+7e53fa24cbcc255d24f97b17a0824b78
+2007-10-22T10:25:53.369879Z
+249
+makelaa
+has-props
+

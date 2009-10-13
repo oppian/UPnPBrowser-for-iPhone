@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clinkc/!svn/ver/432/trunk/src/cybergarage/soap
+END
+csoap_response.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/soap/csoap_response.c
+END
+csoap.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/soap/csoap.c
+END
+csoap_request.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clinkc/!svn/ver/432/trunk/src/cybergarage/soap/csoap_request.c
+END

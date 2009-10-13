@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/clinkc/!svn/ver/502/trunk/src/cybergarage/upnp
+END
+ccontrolpoint_event.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clinkc/!svn/ver/225/trunk/src/cybergarage/upnp/ccontrolpoint_event.c
+END
+cservice_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/cservice_list.c
+END
+cdevice.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clinkc/!svn/ver/502/trunk/src/cybergarage/upnp/cdevice.c
+END
+cservice.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/clinkc/!svn/ver/498/trunk/src/cybergarage/upnp/cservice.c
+END
+cservice_std_dcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/clinkc/!svn/ver/453/trunk/src/cybergarage/upnp/cservice_std_dcp.c
+END
+caction_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/caction_list.c
+END
+cservicestate_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/cservicestate_table.c
+END
+cargument_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/cargument_list.c
+END
+caction.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/clinkc/!svn/ver/326/trunk/src/cybergarage/upnp/caction.c
+END
+cdevice_ssdp_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clinkc/!svn/ver/424/trunk/src/cybergarage/upnp/cdevice_ssdp_server.c
+END
+ccontrolpoint_http_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/clinkc/!svn/ver/251/trunk/src/cybergarage/upnp/ccontrolpoint_http_server.c
+END
+cservice_ssdp_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clinkc/!svn/ver/252/trunk/src/cybergarage/upnp/cservice_ssdp_server.c
+END
+cargument.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/clinkc/!svn/ver/301/trunk/src/cybergarage/upnp/cargument.c
+END
+cicon_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/cicon_list.c
+END
+cdevice_http_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/clinkc/!svn/ver/252/trunk/src/cybergarage/upnp/cdevice_http_server.c
+END
+cupnp_status.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/cupnp_status.c
+END
+cstatevariable.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clinkc/!svn/ver/497/trunk/src/cybergarage/upnp/cstatevariable.c
+END
+cdevice_advertiser.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/clinkc/!svn/ver/486/trunk/src/cybergarage/upnp/cdevice_advertiser.c
+END
+cupnp_function.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/clinkc/!svn/ver/463/trunk/src/cybergarage/upnp/cupnp_function.c
+END
+cicon.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/clinkc/!svn/ver/473/trunk/src/cybergarage/upnp/cicon.c
+END
+cservice_notify.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clinkc/!svn/ver/252/trunk/src/cybergarage/upnp/cservice_notify.c
+END
+cdevice_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clinkc/!svn/ver/249/trunk/src/cybergarage/upnp/cdevice_list.c
+END
+ccontrolpoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clinkc/!svn/ver/453/trunk/src/cybergarage/upnp/ccontrolpoint.c
+END

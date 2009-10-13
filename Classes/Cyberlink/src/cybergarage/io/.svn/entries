@@ -1,0 +1,54 @@
+8
+
+dir
+523
+https://clinkc.svn.sourceforge.net/svnroot/clinkc/trunk/src/cybergarage/io
+https://clinkc.svn.sourceforge.net/svnroot/clinkc
+
+
+
+2009-07-27T14:24:07.769015Z
+519
+skonno
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bfd3be0d-9f21-0410-925f-e30e9767a5cc
+
+cfile.c
+file
+
+
+
+
+2009-08-11T13:20:59.000000Z
+4dadfdae53ba719e00ddeaee20a3a2cc
+2009-07-27T14:24:07.769015Z
+519
+skonno
+has-props
+
+cfile_list.c
+file
+
+
+
+
+2009-08-11T13:20:59.000000Z
+2883804d11d96f2df816aa632f8fd1c2
+2007-03-13T11:05:09.890509Z
+216
+skonno
+has-props
+
